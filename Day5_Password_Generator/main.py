@@ -38,7 +38,6 @@ for char in range(1, nr_numbers +1):
     password2_list += random.choice(numbers) 
 random.shuffle(password2_list)
 
-
 password2 =""
 for char in password2_list:
     password2 += char
