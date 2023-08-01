@@ -18,9 +18,9 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day09-Blind-Auction:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day09-Blind-Auction) Dictionaries, Nesting and the Secret Auction
 - [Day10-Calculator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day10-Calculator) Functions with Outputs
 - [Day11_Black_Jack:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day11_Black_Jack) The Blackjack Capstone Project
-- [Day12_Guessing_Game:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
+- [Day12_Guessing_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9c8da4de0016f8c5ae4779c617d2624655fe8819/Day12_Guessing_Game) Scope & Number Guessing Game
 - [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
-- [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
+- [Day14_Higher_Lower_Game](https://github.com/Nasim-RN/100_Days_of_Python/tree/9c8da4de0016f8c5ae4779c617d2624655fe8819/Day14_Higher_Lower_Game) Higher Lower Game Project
 
 ## 📚 Intermediate
 - [Day 15:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day12_Guessing_Game) Local Development Environment Setup & the Coffee Machine
