@@ -7,25 +7,25 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 
 ## 🔰 Beginner 
-- [Day 1:](https://github.com/Nasim-RN/100_Days_of_Python/tree/db11d43c1cf08fb02d677e62cd89ca78a093b12e/Day01_Band_Name_Generator) Working with Variables in Python to Manage Data
-- [Day 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
-- [Day 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
-- [Day 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Randomisation and Python Lists
-- [Day 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Loops
-- [Day 6:](https://github.com/phillipai/100-days-of-code-python/tree/main/day06) Python Functions & Karel
-- [Day 7:](https://github.com/phillipai/100-days-of-code-python/tree/main/day07) Hangman
-- [Day 8:](https://github.com/phillipai/100-days-of-code-python/tree/main/day08) Function Parameters & Caesar Cipher
-- [Day 9:](https://github.com/phillipai/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
-- [Day 10:](https://github.com/phillipai/100-days-of-code-python/tree/main/day10) Functions with Outputs
-- [Day 11:](https://github.com/phillipai/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
-- [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
+- [Day01_Band_Name_Generator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/db11d43c1cf08fb02d677e62cd89ca78a093b12e/Day01_Band_Name_Generator) Working with Variables in Python to Manage Data
+- [Day02_Tip_Calculator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day02_Tip_Calculator) Understanding Data Types and How to Manipulate Strings
+- [Day03_Treasure_Island:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day03_Treasure_Island) Control Flow and Logical Operators
+- [Day04_Rock_Paper _Scissors:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day04_Rock_Paper%20_Scissors) Randomisation and Python Lists
+- [Day05_Password_Generator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day05_Password_Generator) Python Loops
+- [Day06_Escaping_The_Maze:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day06_Escaping_The_Maze) Python Functions & Karel
+- [Day07_Hangman:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day07_Hangman) Hangman
+- [Day08_Caesar_Cipher:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day08_Caesar_Cipher) Function Parameters & Caesar Cipher
+- [Day09-Blind-Auction:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day09-Blind-Auction) Dictionaries, Nesting and the Secret Auction
+- [Day10-Calculator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day10-Calculator) Functions with Outputs
+- [Day11_Black_Jack:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day11_Black_Jack) The Blackjack Capstone Project
+- [Day12_Guessing_Game:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
 
 ## 📚 Intermediate
-- [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
-- [Day 16:](https://github.com/phillipai/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
-- [Day 17:](https://github.com/phillipai/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
+- [Day 15:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day12_Guessing_Game) Local Development Environment Setup & the Coffee Machine
+- [Day16_OOP_Coffee_Machine:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day16_OOP_Coffee_Machine) Object Oriented Programming (OOP)
+- [Day17_Quiz_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day17_Quiz_Game) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/phillipai/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/phillipai/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/phillipai/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
