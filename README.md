@@ -26,7 +26,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day15_Coffee_Machine:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day12_Guessing_Game) Local Development Environment Setup & the Coffee Machine
 - [Day16_OOP_Coffee_Machine:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day16_OOP_Coffee_Machine) Object Oriented Programming (OOP)
 - [Day17_Quiz_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/391dbfe198cbb8816809af521c1b63f774962fe6/Day17_Quiz_Game) The Quiz Project & The Benefits of OOP
-- [Day 18:](https://github.com/phillipai/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
+- [Day18_Hirst_Painting:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4655065f8a6e7816483832d1da96eff65afbcf49/Day18_Hirst_Painting) Turtle & the Graphical User Interface (GUI)
 - [Day19_Turtle_Race:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4655065f8a6e7816483832d1da96eff65afbcf49/Day19_Turtle_Race) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/phillipai/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
