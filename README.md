@@ -29,7 +29,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day18_Hirst_Painting:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4655065f8a6e7816483832d1da96eff65afbcf49/Day18_Hirst_Painting) Turtle & the Graphical User Interface (GUI)
 - [Day19_Turtle_Race:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4655065f8a6e7816483832d1da96eff65afbcf49/Day19_Turtle_Race) Instances, State and Higher Order Functions
 - [Day20_Snake_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/c842f7bc1fa208cef8dfeefc0b8af23beed3cafe/Day20_Snake_Game) Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21:](https://github.com/phillipai/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day21_Snake_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/86b86c41b17a2e769b63f2cfd6f5bf2db97a30ab/Day21_Snake_Game(2)) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
