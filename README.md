@@ -30,7 +30,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day19_Turtle_Race:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4655065f8a6e7816483832d1da96eff65afbcf49/Day19_Turtle_Race) Instances, State and Higher Order Functions
 - [Day20_Snake_Game(1):](https://github.com/Nasim-RN/100_Days_of_Python/tree/8e138de5e6f05005296fc601ccfe4644b856bb07/Day20_Snake_Game(1)) Build the Snake Game Part 1: Animation & Coordinates
 - [Day21_Snake_Game(2):](https://github.com/Nasim-RN/100_Days_of_Python/tree/86b86c41b17a2e769b63f2cfd6f5bf2db97a30ab/Day21_Snake_Game(2)) Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22:](https://github.com/phillipai/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
+- [Day22_Pong_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/68f1f7da8074bf62d87b2550aff2a0e63b6af00d/Day22_Pong_Game) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/phillipai/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/phillipai/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
 - [Day 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
