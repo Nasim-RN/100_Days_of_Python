@@ -33,7 +33,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day22_Pong_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/68f1f7da8074bf62d87b2550aff2a0e63b6af00d/Day22_Pong_Game) Build Pong: The Famous Arcade Game
 - [Day23_Turtle_Crossing_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/db844dd3b0b26f521b88b947fd29bc46d5346bf1/Day23_Turtle_Crossing_Game) The Turtle Crossing Capstone Project
 - [Day24_SnakeGame_and_Mail_Merg:](https://github.com/Nasim-RN/100_Days_of_Python/tree/de34c784ee4317d2624b1f1680f7c2fe42b3987a/Day24_SnakeGame_and_MailMerge) Files, Directories and Paths
-- [Day 25:](https://github.com/phillipai/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
+- [Day25_US_States_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/39986bc1da5322457b690c027cc94b9dc70d8cbf/Day25_US_States_Game) Working with CSV Data and the Pandas Library
 - [Day 26:](https://github.com/phillipai/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
 - [Day 27:](https://github.com/phillipai/100-days-of-code-python/tree/main/day27) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/phillipai/100-days-of-code-python/tree/main/day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
