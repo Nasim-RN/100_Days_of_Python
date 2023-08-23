@@ -37,7 +37,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day26_Nato_Alphabet:](https://github.com/Nasim-RN/100_Days_of_Python/tree/f34c6e15948c8870cb041fd0135417e8a74495ef/Day26_Nato_Alphabet) List Comprehension and the Nato Alphabet
 - [Day27_Mile_to_Km_Converter:](https://github.com/Nasim-RN/100_Days_of_Python/tree/482fa4d081164fb70ba9e1c0fafdc1a764ced25f/Day27_Mile_to_Km_Converter) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day28_Pomodoro_App:](https://github.com/Nasim-RN/100_Days_of_Python/tree/659ea3c2dc994e6f0c5199422d8225e17d406c52/Day28_Pomodoro_App) Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- [Day 29:](https://github.com/phillipai/100-days-of-code-python/tree/main/day29) Building a Password Manager GUI App with Tkinter
+- [Day29_Password_Manager:](https://github.com/Nasim-RN/100_Days_of_Python/tree/d925089d3a89f623c74688252a9061f2182e818b/Day29_Password_Manager) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/phillipai/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/phillipai/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
 
