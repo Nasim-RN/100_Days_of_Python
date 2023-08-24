@@ -19,7 +19,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day10-Calculator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day10-Calculator) Functions with Outputs
 - [Day11_Black_Jack:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day11_Black_Jack) The Blackjack Capstone Project
 - [Day12_Guessing_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9c8da4de0016f8c5ae4779c617d2624655fe8819/Day12_Guessing_Game) Scope & Number Guessing Game
-- [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
+- [Day13_Debugging:](https://github.com/Nasim-RN/100_Days_of_Python/tree/8f67ed1bb5650eafa400cb34415348e43bb3eead/Day13_Debugging) Debugging: How to Find and Fix Errors in your Code
 - [Day14_Higher_Lower_Game](https://github.com/Nasim-RN/100_Days_of_Python/tree/9c8da4de0016f8c5ae4779c617d2624655fe8819/Day14_Higher_Lower_Game) Higher Lower Game Project
 
 ## 📚 Intermediate
