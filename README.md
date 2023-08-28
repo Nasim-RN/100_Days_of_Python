@@ -42,7 +42,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day31_Flash_Card_App:](https://github.com/Nasim-RN/100_Days_of_Python/tree/ce79572d2f87f3be9627215c453ab9217993bec3/Day31_Flash_Card_App) Flash Card App Capstone Project
 
 ## 👨‍💻 Intermediate+
-- [Day 32:](https://github.com/phillipai/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day32_Automated_Birthday_Wisher:](https://github.com/Nasim-RN/100_Days_of_Python/tree/68ba07963a3327e2b7b8e3db4d330cbebd4b25c2/Day32_Automated_Birthday_Wisher) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/phillipai/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
 - [Day 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
