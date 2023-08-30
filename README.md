@@ -44,7 +44,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 ## 👨‍💻 Intermediate+
 - [Day32_Automated_Birthday_Wisher:](https://github.com/Nasim-RN/100_Days_of_Python/tree/68ba07963a3327e2b7b8e3db4d330cbebd4b25c2/Day32_Automated_Birthday_Wisher) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day33_ISS_Overhead_Project:](https://github.com/Nasim-RN/100_Days_of_Python/tree/8459d7583ea7c6668f731d9af589d63edb317b2f/Day33_ISS_Overhead_Project) API Endpoints & API Parameters - ISS Overhead Notifier
-- [Day 34:](https://github.com/phillipai/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
+- [Day34_Quizzler_App:](https://github.com/Nasim-RN/100_Days_of_Python/tree/d834af4513136ff491abc915272b54e9c1e32e69/Day34_Quizzler_App) API Practice - Creating a GUI Quiz App
 - [Day 35:](https://github.com/phillipai/100-days-of-code-python/tree/main/day35) Keys, Authentication & Environment Variables - Telegram Rain Notifier
 - [Day 36:](https://github.com/phillipai/100-days-of-code-python/tree/main/day36) Stock Trading News Alert Project
 - [Day 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
