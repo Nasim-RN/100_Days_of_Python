@@ -3,8 +3,8 @@ import os
 from twilio.rest import Client
 
 
-account_sid = os.environ['TWILIO_ACCOUNT_SID'] = "AC5e6941ed7df36d686154dba462c5626d"
-auth_token = os.environ['TWILIO_AUTH_TOKEN'] = "9e6ae4e8daf4e5c065c9eea0552a9b1b"
+account_sid = os.environ['TWILIO_ACCOUNT_SID'] = "*****"
+auth_token = os.environ['TWILIO_AUTH_TOKEN'] = "*****"
 
 OWM_Endpoint = "https://api.weatherapi.com/v1/forecast.json?"
 app_key = "5cc89e99660549a584a154852230309"
