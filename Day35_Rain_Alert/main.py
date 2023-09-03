@@ -7,7 +7,7 @@ account_sid = os.environ['TWILIO_ACCOUNT_SID'] = "*****"
 auth_token = os.environ['TWILIO_AUTH_TOKEN'] = "*****"
 
 OWM_Endpoint = "https://api.weatherapi.com/v1/forecast.json?"
-app_key = "5cc89e99660549a584a154852230309"
+app_key = "*****"
 
 weather_params = {
     "key": app_key,
