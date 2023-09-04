@@ -15,7 +15,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day06_Escaping_The_Maze:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day06_Escaping_The_Maze) Python Functions & Karel
 - [Day07_Hangman:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day07_Hangman) Hangman
 - [Day08_Caesar_Cipher:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day08_Caesar_Cipher) Function Parameters & Caesar Cipher
-- [Day09-Blind-Auction:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day09-Blind-Auction) Dictionaries, Nesting and the Secret Auction
+- [Day09_Blind_Auction:](https://github.com/Nasim-RN/100_Days_of_Python/tree/69e78ed072871b843b593ca72b17220c1096f66c/Day09_Blind_Auction) Dictionaries, Nesting and the Secret Auction
 - [Day10-Calculator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day10-Calculator) Functions with Outputs
 - [Day11_Black_Jack:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0e707df4c3e65d7d50ba831685ca8fc8065e292c/Day11_Black_Jack) The Blackjack Capstone Project
 - [Day12_Guessing_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9c8da4de0016f8c5ae4779c617d2624655fe8819/Day12_Guessing_Game) Scope & Number Guessing Game
