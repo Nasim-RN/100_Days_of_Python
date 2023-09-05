@@ -47,7 +47,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day34_Quizzler_App:](https://github.com/Nasim-RN/100_Days_of_Python/tree/d834af4513136ff491abc915272b54e9c1e32e69/Day34_Quizzler_App) API Practice - Creating a GUI Quiz App
 - [Day35_Rain_Alert:](https://github.com/Nasim-RN/100_Days_of_Python/tree/1d7b2abd4a8aaae466d94afdcf664b4a162d6900/Day35_Rain_Alert) Keys, Authentication & Environment Variables - Telegram Rain Notifier
 - [Day36_Trading_News_Alert](https://github.com/Nasim-RN/100_Days_of_Python/tree/7ade7c7b2c95e50df4554bb5351a51224542fac0/Day36_Trading_News_Alert) Stock Trading News Alert Project
-- [Day 37:](https://github.com/phillipai/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
+- [Day37_Habit_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0efebdce5299f6c341982e3ebf6a377fa05b7fee/Day37_Habit_Tracker) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/phillipai/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/phillipai/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
 - [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
