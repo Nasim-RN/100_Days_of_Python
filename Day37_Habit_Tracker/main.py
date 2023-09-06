@@ -41,7 +41,7 @@ pixel_creation_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}"
 today = datetime(year=2023, month=8, day=17)
 pixel_data = {
     "date": today.strftime("%Y%m%d"),
-    input("How many kilometers did you cycle today? "),
+    "quantity": input("How many kilometers did you cycle today? "),
 }
 
 response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
