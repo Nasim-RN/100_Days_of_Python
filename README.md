@@ -50,7 +50,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day37_Habit_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0efebdce5299f6c341982e3ebf6a377fa05b7fee/Day37_Habit_Tracker) Habit Tracking Project: API Post Requests & Headers
 - [Day38_Workout_Tracking:](https://github.com/Nasim-RN/100_Days_of_Python/tree/12f0372e2671dbd50ea546bfa864bf916fb5fca2/Day38_Workout_Tracking) Workout Tracking Using Google Sheets
 - [Day39_Cheap_Flight_Finder:](https://github.com/Nasim-RN/100_Days_of_Python/tree/92bd9edcfee5900fdd0e45d26029782718cbd874/Day39_Cheap_Flight_Finder) Capstone Part 1: Flight Deal Finder
-- [Day 40:](https://github.com/phillipai/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
+- [Day40_Flight_Club](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/phillipai/100-days-of-code-python/tree/main/day41) Introduction to HTML
 - [Day 42:](https://github.com/phillipai/100-days-of-code-python/tree/main/day42) Intermediate HTML
 - [Day 43:](https://github.com/phillipai/100-days-of-code-python/tree/main/day43) Introduction to CSS
