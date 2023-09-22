@@ -6,4 +6,5 @@
 - Autofilling dates using strftime function
 ## Flight Club
 
-![day40](/Users/nasim/Documents/100_day_of_python/Day40_Flight_Club/Screenshot 2023-09-22 at 19.20.27.png)
+![day40](<img width="711" alt="Screenshot 2023-09-22 at 19 20 27" src="https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/c820b6d1-5ad6-4952-8d49-5faca95b332b">
+)
