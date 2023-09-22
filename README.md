@@ -51,22 +51,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day38_Workout_Tracking:](https://github.com/Nasim-RN/100_Days_of_Python/tree/12f0372e2671dbd50ea546bfa864bf916fb5fca2/Day38_Workout_Tracking) Workout Tracking Using Google Sheets
 - [Day39_Cheap_Flight_Finder:](https://github.com/Nasim-RN/100_Days_of_Python/tree/92bd9edcfee5900fdd0e45d26029782718cbd874/Day39_Cheap_Flight_Finder) Capstone Part 1: Flight Deal Finder
 - [Day40_Flight_Club](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
-- [Day 45:](https://github.com/phillipai/100-days-of-code-python/tree/main/day45) Web Scraping with Beautiful Soup
-- [Day 46:](https://github.com/phillipai/100-days-of-code-python/tree/main/day46) Create a Spotify Playlist Using The Musical Time Machine
-- [Day 47:](https://github.com/phillipai/100-days-of-code-python/tree/main/day47) Create an Automated Amazon Price Tracker
-- [Day 48:](https://github.com/phillipai/100-days-of-code-python/tree/main/day48) Selenium Webdriver Browser and Game Playing Bot
-- [Day 49:](https://github.com/phillipai/100-days-of-code-python/tree/main/day49) Automating Job Applications on LinkedIn
-- [Day 50:](https://github.com/phillipai/100-days-of-code-python/tree/main/day50) Auto Tinder Swiping Bot
-- [Day 51:](https://github.com/phillipai/100-days-of-code-python/tree/main/day51) Internet Speed Twitter Complaint Bot
-- [Day 52:](https://github.com/phillipai/100-days-of-code-python/tree/main/day52) Instagram Follower Bot
-- [Day 53:](https://github.com/phillipai/100-days-of-code-python/tree/main/day53) Web Scraping Capstone - Data Entry Job Automation
-- [Day 54:](https://github.com/phillipai/100-days-of-code-python/tree/main/day54) Introduction to Web Development with Flask
-- [Day 55:](https://github.com/phillipai/100-days-of-code-python/tree/main/day55) HTML & URL Parsing in Flask and the Higher Lower Game
-- [Day 56:](https://github.com/phillipai/100-days-of-code-python/tree/main/day56) Rendering HTML/Static Files and Using Website Templates
-- [Day 57:](https://github.com/phillipai/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
-- [Day 58:](https://github.com/phillipai/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
-
-## 🏆 Advanced
 
 ## ⚔ Professional Portfolio Projects
 
