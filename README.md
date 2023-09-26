@@ -51,6 +51,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day38_Workout_Tracking:](https://github.com/Nasim-RN/100_Days_of_Python/tree/12f0372e2671dbd50ea546bfa864bf916fb5fca2/Day38_Workout_Tracking) Workout Tracking Using Google Sheets
 - [Day39_Cheap_Flight_Finder:](https://github.com/Nasim-RN/100_Days_of_Python/tree/92bd9edcfee5900fdd0e45d26029782718cbd874/Day39_Cheap_Flight_Finder) Capstone Part 1: Flight Deal Finder
 - [Day40_Flight_Club](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
+- [Day45_WebScraping_with_bs4](https://github.com/Nasim-RN/100_Days_of_Python/tree/e93efcec8b2594a8ddac94bad2553d7e690fe65f/Day45_WebScraping_with_bs4) Web Scraping with Beautiful Soup
+
 
 ## ⚔ Professional Portfolio Projects
 
