@@ -46,12 +46,14 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day33_ISS_Overhead_Project:](https://github.com/Nasim-RN/100_Days_of_Python/tree/8459d7583ea7c6668f731d9af589d63edb317b2f/Day33_ISS_Overhead_Project) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day34_Quizzler_App:](https://github.com/Nasim-RN/100_Days_of_Python/tree/d834af4513136ff491abc915272b54e9c1e32e69/Day34_Quizzler_App) API Practice - Creating a GUI Quiz App
 - [Day35_Rain_Alert:](https://github.com/Nasim-RN/100_Days_of_Python/tree/1d7b2abd4a8aaae466d94afdcf664b4a162d6900/Day35_Rain_Alert) Keys, Authentication & Environment Variables - Telegram Rain Notifier
-- [Day36_Trading_News_Alert](https://github.com/Nasim-RN/100_Days_of_Python/tree/7ade7c7b2c95e50df4554bb5351a51224542fac0/Day36_Trading_News_Alert) Stock Trading News Alert Project
+- [Day36_Trading_News_Alert:](https://github.com/Nasim-RN/100_Days_of_Python/tree/7ade7c7b2c95e50df4554bb5351a51224542fac0/Day36_Trading_News_Alert) Stock Trading News Alert Project
 - [Day37_Habit_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/0efebdce5299f6c341982e3ebf6a377fa05b7fee/Day37_Habit_Tracker) Habit Tracking Project: API Post Requests & Headers
 - [Day38_Workout_Tracking:](https://github.com/Nasim-RN/100_Days_of_Python/tree/12f0372e2671dbd50ea546bfa864bf916fb5fca2/Day38_Workout_Tracking) Workout Tracking Using Google Sheets
 - [Day39_Cheap_Flight_Finder:](https://github.com/Nasim-RN/100_Days_of_Python/tree/92bd9edcfee5900fdd0e45d26029782718cbd874/Day39_Cheap_Flight_Finder) Capstone Part 1: Flight Deal Finder
-- [Day40_Flight_Club](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
-- [Day45_WebScraping_with_bs4](https://github.com/Nasim-RN/100_Days_of_Python/tree/e93efcec8b2594a8ddac94bad2553d7e690fe65f/Day45_WebScraping_with_bs4) Web Scraping with Beautiful Soup
+- [Day40_Flight_Club:](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
+- [Day45_WebScraping_with_bs4:](https://github.com/Nasim-RN/100_Days_of_Python/tree/e93efcec8b2594a8ddac94bad2553d7e690fe65f/Day45_WebScraping_with_bs4) Web Scraping with Beautiful Soup
+- [Day46_Spotify_Playlist:](https://github.com/Nasim-RN/100_Days_of_Python/tree/7f299504be3df39266e2d84c7b588c7fb61a892a/Day46_Spotify_Playlist) 
+- 
 
 
 ## ⚔ Professional Portfolio Projects
