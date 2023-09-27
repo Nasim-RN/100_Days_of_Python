@@ -5,4 +5,6 @@
 - Spotify Authrorization with the Spotipy module
 - Using a Redirect URI
 ## Music Time Machine
+![](https://github.com/100_Days_of_Python/Day46_Spotify_Playlist
+/Spotify_Playlist.gif)
 
