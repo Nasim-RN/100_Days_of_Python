@@ -53,6 +53,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day40_Flight_Club:](https://github.com/Nasim-RN/100_Days_of_Python/tree/71f49f935015d2e569abbc108e846097a4ab5f36/Day40_Flight_Club) Capstone Part 2: Flight Club
 - [Day45_WebScraping_with_bs4:](https://github.com/Nasim-RN/100_Days_of_Python/tree/e93efcec8b2594a8ddac94bad2553d7e690fe65f/Day45_WebScraping_with_bs4) Web Scraping with Beautiful Soup
 - [Day46_Spotify_Playlist:](https://github.com/Nasim-RN/100_Days_of_Python/tree/7f299504be3df39266e2d84c7b588c7fb61a892a/Day46_Spotify_Playlist) Create a Spotify Playlist Using The Musical Time Machine
+- [Day47_Automated_Amazon_price_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9b4747643e261fa041d8981ff48f80de814ee2f0/Day47_Automated_Amazon_price_Tracker) Create an Automated Amazon Price Tracker
 
 
 
