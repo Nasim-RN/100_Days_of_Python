@@ -4,4 +4,4 @@
 - Use Selenium to Scrape Website Data
 - Automate Filling Out Forms and Clicking Buttons with Selenium
 ## Cookie Clicker Bot
-![day48](https://user-images.githubusercontent.com/98851253/158495341-fa75c361-84c5-406d-b85e-a8462fc16664.gif)
+![Cookie_Clicker](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/666d4475-1719-40fc-8c5b-c87705d08aea)
