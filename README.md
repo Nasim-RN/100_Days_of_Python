@@ -55,6 +55,8 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day46_Spotify_Playlist:](https://github.com/Nasim-RN/100_Days_of_Python/tree/7f299504be3df39266e2d84c7b588c7fb61a892a/Day46_Spotify_Playlist) Create a Spotify Playlist Using The Musical Time Machine
 - [Day47_Automated_Amazon_price_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9b4747643e261fa041d8981ff48f80de814ee2f0/Day47_Automated_Amazon_price_Tracker) Create an Automated Amazon Price Tracker
 - [Day54_Python_Decorator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/20e081037e9dd4b77afccb62024819ca0fc5fc63/Day54_Python_Decorator) Introduction to Web Development with Flask
+- [Day55_Higher_Lower_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/224d8e9a4878adeedf98dbd5ef823e4f4455b961/Day55_Higher_Lower_Game) HTML & URL Parsing in Flask and the Higher Lower Game
+
 
 
 
