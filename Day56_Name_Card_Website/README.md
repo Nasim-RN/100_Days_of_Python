@@ -4,4 +4,4 @@
 - Serving Static Files using Flask
 - Use Website Templates to Speed Up Web Development
 ## Name Card Website
-<img width="958" alt="day56" src="https://user-images.githubusercontent.com/98851253/159593860-00066569-6e97-4177-b5d8-63ab86eff4c4.png">
+<img width="1199" alt="Screenshot 2023-10-07 at 01 05 35" src="https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/34656ce4-c53d-4627-9092-5e5d7048ff3e">
