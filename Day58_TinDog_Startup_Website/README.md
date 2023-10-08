@@ -14,3 +14,4 @@
 - Combining Selectors
 - Selector Priority
 ## Bootstrap Website
+![TinDog](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/5443c260-1071-4a27-9f8a-68c8fe598eb5)
