@@ -3,12 +3,6 @@ import requests
 
 posts = requests.get("https://api.npoint.io/c790b4d5cab58020d391").json()
 print(posts)
-# post_objects = []
-# for n in range(len(posts)):
-#     post_obj = (posts[n]["id"], posts[n]["title"], posts[n]["subtitle"],  posts[n]["body"])
-#     post_objects.append(post_obj)
-# print(post_objects)
-
 
 app = Flask(__name__)
 
