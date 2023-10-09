@@ -5,5 +5,5 @@
 - Multiline Statements with Jinja
 - URL Building with Flask
 ## Blog Capstone Project Part 2 - Adding Styling
-![Blog](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/ffff0dcc-da93-4e38-8c7a-b2cce3d9507f)
+![nasim_blog](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/7b9b63d0-6a5e-4b94-be2c-24be6867c612)
 
