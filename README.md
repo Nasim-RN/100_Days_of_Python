@@ -60,6 +60,9 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day57_Blog_Capstone_Project(1)](https://github.com/Nasim-RN/100_Days_of_Python/tree/6436b38706d1cdbce82e5fa1bb36b060b43ec824/Day57_Blog_Capstone_Project(1)): Templating with Jinja in Flask Applications
 - [Day58_TinDog_Startup_Website](https://github.com/Nasim-RN/100_Days_of_Python/tree/8a864b1f8e2311f10bc02af9093fb5f27bac8318/Day58_TinDog_Startup_Website): Web Foundation Boostrap
 
+## 🏆 Advanced
+- [Day59_Blog_Capstone_Project(2)](https://github.com/Nasim-RN/100_Days_of_Python/tree/1404aa0b6724827a6eed6784049d1539487d165a/Day59_Blog_Capstone_Project(2)):Blog Capstone Project Part 2 - Adding Styling
+
 
 
 ## ⚔ Professional Portfolio Projects
