@@ -43,7 +43,7 @@ def contact():
             connection.login(MY_EMAIL, MY_PASSWORD)
             connection.sendmail(
                 from_addr=MY_EMAIL,
-                to_addrs="n.r.niyar@gmail.com",
+                to_addrs="MY_EMAIL",
                 msg=f"Subject: New Message!\n\nName: {name}\nEmail: {email}\nPhone: {phone}\nMessage: {message}"
             )
         return render_template("contact.html", msg_sent=True)
