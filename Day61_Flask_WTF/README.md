@@ -6,4 +6,4 @@
 - Inheriting Templates Using Jinja2
 - Using Flask-Bootstrap as an Inherited Template
 ## Flask-WTForms
-![WTForms](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/9f8c79c8-3a8c-4264-8da6-d11a0ebc7e03)
+![WTForms](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/248c560e-5dd2-4cd7-8991-8b83220222b7)
