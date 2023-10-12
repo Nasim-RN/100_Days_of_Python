@@ -63,6 +63,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 ## 🏆 Advanced
 - [Day59_Blog_Capstone_Project(2):"](https://github.com/Nasim-RN/100_Days_of_Python/tree/1404aa0b6724827a6eed6784049d1539487d165a/Day59_Blog_Capstone_Project(2)) Blog Capstone Project Part 2 - Adding Styling
 - [Day60_HTML_Forms:](https://github.com/Nasim-RN/100_Days_of_Python/tree/5d4d80b3f3806f46f3f7d09492229108c895e87c/Day60_HTML_Forms) Make POST Requests with Flask and HTML Forms
+- [Day61_Flask_WTF:](https://github.com/Nasim-RN/100_Days_of_Python/tree/c783dbacd4de342c16fa9de3df833533ec3f542e/Day61_Flask_WTF) Building Advanced Forms with Flask-WTForms
 
 
 
