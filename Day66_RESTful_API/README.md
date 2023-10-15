@@ -4,4 +4,4 @@
 - Postman Software
 - Publish API Documentation
 ## API with RESTful Routing
-<img width="1054" alt="day66" src="https://user-images.githubusercontent.com/98851253/163257600-a4924c5d-7f0b-4606-8583-0a63fbe614e6.png">
+![Day66](https://github.com/Nasim-RN/100_Days_of_Python/assets/132076501/fdd404de-8588-4580-8a8a-d5555bea2ac9)
