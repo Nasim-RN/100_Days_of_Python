@@ -54,7 +54,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day45_WebScraping_with_bs4:](https://github.com/Nasim-RN/100_Days_of_Python/tree/e93efcec8b2594a8ddac94bad2553d7e690fe65f/Day45_WebScraping_with_bs4) Web Scraping with Beautiful Soup
 - [Day46_Spotify_Playlist:](https://github.com/Nasim-RN/100_Days_of_Python/tree/7f299504be3df39266e2d84c7b588c7fb61a892a/Day46_Spotify_Playlist) Create a Spotify Playlist Using The Musical Time Machine
 - [Day47_Automated_Amazon_price_Tracker:](https://github.com/Nasim-RN/100_Days_of_Python/tree/9b4747643e261fa041d8981ff48f80de814ee2f0/Day47_Automated_Amazon_price_Tracker) Create an Automated Amazon Price Tracker
-- [Day48_Automated_Cookie_Clicker_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/cd8c43bfb747cb1d8a5e6b99c790898a3560ba23/Day48_Automated_Cookie_Clicker_Game)
+- [Day48_Automated_Cookie_Clicker_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/cd8c43bfb747cb1d8a5e6b99c790898a3560ba23/Day48_Automated_Cookie_Clicker_Game) Selenium Webdriver Browser and Game Playing Bot
 - [Day54_Python_Decorator:](https://github.com/Nasim-RN/100_Days_of_Python/tree/20e081037e9dd4b77afccb62024819ca0fc5fc63/Day54_Python_Decorator) Introduction to Web Development with Flask
 - [Day55_Higher_Lower_Game:](https://github.com/Nasim-RN/100_Days_of_Python/tree/224d8e9a4878adeedf98dbd5ef823e4f4455b961/Day55_Higher_Lower_Game) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day56_Name_Card_Website:](https://github.com/Nasim-RN/100_Days_of_Python/tree/4ee483ccf715961d8b0d3b583efe375de347b5b8/Day56_Name_Card_Website) Rendering HTML/Static Files and Using Website Templates
